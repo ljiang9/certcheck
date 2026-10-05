@@ -1,0 +1,5 @@
+# 示例域名列表（每行一个，# 开头是注释）
+example.com
+github.com
+# 下面这个是故意写错的，用来演示 ❌
+this-domain-definitely-does-not-exist-12345.invalid
